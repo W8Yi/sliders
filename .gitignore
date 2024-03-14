@@ -1,0 +1,11 @@
+# datasets
+datasets/
+
+# Ignore the following files
+demo_concept_sliders.ipynb
+SD1-sliders-inference.ipynb
+
+# pt
+*.pt
+
+*.pyc
